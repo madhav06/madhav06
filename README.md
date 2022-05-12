@@ -6,7 +6,7 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-- :work: I am a `MERN Stack` Developer at XongoLab LLP, Ahmedabad.
+- :technologist: I am a `MERN Stack` Developer at XongoLab LLP, Ahmedabad.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I'm using `React`, `Node`, `Material-UI`, `Firebase`, `Hooks`, `MongoDB`,`HTML`, `CSS`, and `JavaScript` to make webapplications, websites dance.🕺🏽
 - :thinking: I’m currently open for: `job opportunity` with good `pay and perks`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
