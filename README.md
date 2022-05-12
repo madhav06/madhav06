@@ -1,15 +1,34 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+- :school: I am a `MERN Stack` Developer at XongoLab LLP, Ahmedabad.
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I'm using `React`, `Node`, `Material-UI`, `Firebase`, `Hooks`, `MongoDB`,`HTML`, `CSS`, and `JavaScript` to make webapplications, websites dance.🕺🏽
+- :thinking: I’m currently open for: `job opportunity` with good `pay and perks`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="madhav06" /></p>
+
+<br>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/madhav06"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=madhav06's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 
 **I love working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/material%20ui-%23007ACC.svg?style=for-the-badge&logo=material%20ui&logoColor=white" alt="Material-UI"/>
+  <img src="https://img.shields.io/badge/node-%23663399.svg?style=for-the-badge&logo=node&logoColor=white" alt="Node"/>
+  <img src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/mongo%20db-%231572B6.svg?style=for-the-badge&logo=mongo%20db&logoColor=white" alt="Mongo DB"/>
+  <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 ### 🔭 I’m working on
