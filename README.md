@@ -68,7 +68,48 @@
     <img src="https://img.shields.io/badge/Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
   </a>
 </div>
+<br/>
+<br/>
+<h1>Some of my Projects! 🎨</h1>
+<br>
+<br>
+<h4>Yet to Edit....</h4>
 
-### ⚡ Fun fact
+[Landing Page in React](https://github.com/madhav06/30DaysReact-Challange/tree/master/React_01/landing-pages-react/madhav-landing)
+<br>
+<br>
 
-I'm definitely not a cat person.
+![Screenshot](landing-page.png)
+<br>
+<br>
+
+[AI Supported News App in React](https://github.com/madhav06/voice_assist_app)
+<br>
+
+![Screenshot](news-app.png)
+<br>
+
+[Job Search App in React](https://github.com/madhav06/Goofy-React-Learning/tree/main/react-indeed)
+<br>
+
+![Screenshot](indeed.png)
+<br>
+
+[Tourbar App in React](https://github.com/madhav06/tourbar)
+<br>
+
+![Screenshot](tour.png)
+<br>
+
+[Appointment App in React](https://github.com/madhav06/Goofy-React-Learning/tree/main/reactinterface)
+<br>
+
+![Screenshot](appointment.png)
+
+----
+
+
+Credit:[Madhav Nandan](https://github.com/madhav06)
+Last Edited on: 13/5/2022
+
+
