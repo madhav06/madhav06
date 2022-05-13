@@ -9,7 +9,7 @@
 - :technologist: I am a `MERN Stack` Developer at XongoLab LLP, Ahmedabad.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I'm using `React`, `Node`, `Material-UI`, `Firebase`, `Hooks`, `MongoDB`,`HTML`, `CSS`, and `JavaScript` to make webapplications, websites dance.🕺🏽
-- :thinking: I’m currently open for: `job opportunity` with good `pay and perks`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `job opportunity` with good `pay and perks`, this is [MY RESUME](https://drive.google.com/file/d/1XWUyAIK1DO81zA5cO47XlCvePiAcYj6d/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
