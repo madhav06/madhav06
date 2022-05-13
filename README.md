@@ -40,7 +40,9 @@
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- My `entrepreneurial skills`, `market and customer knowledge`, `sales knowledge`.
+- My Proposal pitch for my dream `startup`.
+
 
 ### 🌱 I’m learning
 
