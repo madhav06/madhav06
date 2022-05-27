@@ -96,6 +96,12 @@
 
 ![Screenshot](indeed.png)
 <br>
+[Material-UI App](https://github.com/madhav06/Lean-Material-UI)
+<br>
+
+![Screenshot](material-ui.png)
+<br>
+
 
 [Tourbar App in React](https://github.com/madhav06/tourbar)
 <br>
