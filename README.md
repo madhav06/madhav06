@@ -6,7 +6,11 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-- :technologist: I am a `MERN Stack` Developer at XongoLab LLP, Ahmedabad.
+- :technologist: I am `CEO` Businessman at Graphics Baba, Varanasi AND Mehsana.
+- :technologist: I was `Fullstack Stack` Developer at Artoon Solutions, Ahmedabad.
+- :technologist: I was `MERN Stack` Developer at XongoLab LLP, Ahmedabad.
+- :technologist: I was `BACKEND` Developer at Frendy, Ahmedabad.
+- :technologist: I was ` INVESTMENT ANALYST` Developer at Karvy Computershare, Mumbai AND Hyderabad Branch.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I'm using `React`, `Node`, `Material-UI`, `Firebase`, `Hooks`, `MongoDB`,`HTML`, `CSS`, and `JavaScript` to make webapplications, websites dance.🕺🏽
 - :thinking: I’m currently open for: `job opportunity` with good `pay and perks`, this is [MY RESUME](https://drive.google.com/file/d/1XWUyAIK1DO81zA5cO47XlCvePiAcYj6d/view?usp=sharing).
