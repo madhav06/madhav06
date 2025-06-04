@@ -45,7 +45,7 @@
 
 - Projects for freelance clients.
 - My `entrepreneurial skills`, `market and customer knowledge`, `sales knowledge`.
-- My Proposal pitch for my dream `startup`.
+- My New learnings for upcoming changes in `global power dynamics`.
 
 
 ### 🌱 I’m learning
@@ -79,7 +79,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <br>
 <br>
-<h4>Yet to Edit....</h4>
+<h4>Work in progress...</h4>
 
 [Landing Page in React](https://github.com/madhav06/30DaysReact-Challange/tree/master/React_01/landing-pages-react/madhav-landing)
 <br>
